@@ -1,4 +1,1 @@
-.vscode
-**/target
-**/*.lock
-**/benches/**/*
+# Advent of Code
